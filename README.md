@@ -109,18 +109,7 @@
 
 使用框架前请仔细阅读文档重点注意事项
 <br>
->[初始化项目 必看](https://gitee.com/dromara/RuoYi-Cloud-Plus/wikis/pages?sort_id=5279751&doc_id=2056143)
->>[https://gitee.com/dromara/RuoYi-Cloud-Plus/wikis/pages?sort_id=5279751&doc_id=2056143](https://gitee.com/dromara/RuoYi-Cloud-Plus/wikis/pages?sort_id=5279751&doc_id=2056143)
->
->[专栏与视频 入门必看](https://gitee.com/dromara/RuoYi-Cloud-Plus/wikis/pages?sort_id=5873351&doc_id=2056143)
->>[https://gitee.com/dromara/RuoYi-Cloud-Plus/wikis/pages?sort_id=5873351&doc_id=2056143](https://gitee.com/dromara/RuoYi-Cloud-Plus/wikis/pages?sort_id=5873351&doc_id=2056143)
->
->[部署项目 必看](https://gitee.com/dromara/RuoYi-Cloud-Plus/wikis/pages?sort_id=5305504&doc_id=2056143)
->>[https://gitee.com/dromara/RuoYi-Cloud-Plus/wikis/pages?sort_id=5305504&doc_id=2056143](https://gitee.com/dromara/RuoYi-Cloud-Plus/wikis/pages?sort_id=5305504&doc_id=2056143)
->
->[参考文档 Wiki](https://gitee.com/dromara/RuoYi-Cloud-Plus/wikis/pages)
->>[https://gitee.com/dromara/RuoYi-Cloud-Plus/wikis/pages](https://gitee.com/dromara/RuoYi-Cloud-Plus/wikis/pages)
-
+>[Cloud 必看](https://plus-doc.dromara.org/#/ruoyi-cloud-plus/home)
 
 ## 软件架构图
 
