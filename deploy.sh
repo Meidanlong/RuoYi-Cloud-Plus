@@ -28,7 +28,7 @@ port(){
 # 构建镜像
 build(){
     docker build -t ruoyi/ruoyi-monitor:1.8.0 ruoyi-visual/ruoyi-monitor/.
-    docker build -t ruoyi/ruoyi-nacos:1.8.0 ruoyi-visual/ruoyi-nacos/.
+#    docker build -t ruoyi/ruoyi-nacos:1.8.0 ruoyi-visual/ruoyi-nacos/.
     docker build -t ruoyi/ruoyi-seata-server:1.8.0 ruoyi-visual/ruoyi-seata-server/.
     docker build -t ruoyi/ruoyi-sentinel-dashboard:1.8.0 ruoyi-visual/ruoyi-sentinel-dashboard/.
     docker build -t ruoyi/ruoyi-xxl-job-admin:1.8.0 ruoyi-visual/ruoyi-xxl-job-admin/.
@@ -49,7 +49,8 @@ base(){
 # 环境模块
 core(){
     cd docker
-    docker-compose up -d nacos seata-server sentinel ruoyi-monitor ruoyi-xxl-job-admin
+#    docker-compose up -d nacos seata-server sentinel ruoyi-monitor ruoyi-xxl-job-admin
+    docker-compose up -d seata-server sentinel ruoyi-monitor ruoyi-xxl-job-admin
 }
 
 # 启动程序模块（必须）
