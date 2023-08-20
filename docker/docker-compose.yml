@@ -43,6 +43,8 @@ services:
       - ./nacos/logs/:/root/nacos/logs
       # 集群配置文件 集群所有nacos都必须使用此文件
       - ./nacos/conf/cluster.conf:/root/nacos/conf/cluster.conf
+    depends_on:
+      - mysql
     network_mode: "wtnet"
 
   redis:

@@ -49,8 +49,8 @@ base(){
 # 环境模块
 core(){
     cd docker
-#    docker-compose up -d nacos seata-server sentinel ruoyi-monitor ruoyi-xxl-job-admin
-    docker-compose up -d seata-server sentinel ruoyi-monitor ruoyi-xxl-job-admin
+    docker-compose up -d nacos seata-server sentinel ruoyi-monitor ruoyi-xxl-job-admin
+#    docker-compose up -d seata-server sentinel ruoyi-monitor ruoyi-xxl-job-admin
 }
 
 # 启动程序模块（必须）
