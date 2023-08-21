@@ -90,7 +90,7 @@ services:
       MINIO_COMPRESS_MIME_TYPES: ""
     volumes:
       # 映射当前目录下的data目录至容器内/data目录
-      - ./minio/data:/data
+      - ./minio/data:/mnt/data
       # 映射配置目录
       - ./minio/config:/root/.minio/
     command: server --address ':9000' --console-address ':9001' /data  # 指定容器中的目录 /data
@@ -148,7 +148,7 @@ services:
       - ./ruoyi-sentinel-dashboard/logs/:/ruoyi/sentinel-dashboard/logs
       # skywalking 探针
       - ./skywalking/agent/:/ruoyi/skywalking/agent
-    restart: always
+#    restart: always
     network_mode: "wtnet"
 
   ruoyi-monitor:

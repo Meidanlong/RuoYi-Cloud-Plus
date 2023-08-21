@@ -2,7 +2,14 @@
 # XXL-JOB v2.3.0
 # Copyright (c) 2015-present, xuxueli.
 
+DROP DATABASE IF EXISTS `ry-job`;
+
+CREATE DATABASE `ry-job` DEFAULT CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci;
+
 SET NAMES utf8mb4;
+SET FOREIGN_KEY_CHECKS = 0;
+
+USE `ry-job`;
 
 CREATE TABLE `xxl_job_info` (
   `id` int(11) NOT NULL AUTO_INCREMENT,
