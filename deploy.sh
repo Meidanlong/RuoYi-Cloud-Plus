@@ -46,7 +46,13 @@ base(){
 	docker-compose up -d mysql nginx-web redis minio
 }
 
-# 基础环境启动完成，单独运行nacos。core依赖nacos
+# mysql启动后，需要创建nacos配置相关的DB和表。
+# 配置完成启动nacos，再将nacos配置粘贴到相应的配置文件中
+# 之后启动剩余模块
+nacos(){
+    cd docker
+    docker-compose up -d nacos
+}
 
 # 环境模块
 core(){
