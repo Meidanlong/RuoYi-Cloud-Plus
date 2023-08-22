@@ -1,6 +1,7 @@
 version: '3'
 
 services:
+  ################### base ###################
   mysql:
     image: mysql:8.0.31
     container_name: mysql
@@ -43,6 +44,8 @@ services:
       - /docker/nacos/logs/:/root/nacos/logs
       # 集群配置文件 集群所有nacos都必须使用此文件
       - /docker/nacos/conf/cluster.conf:/root/nacos/conf/cluster.conf
+    depends_on:
+      - mysql
     network_mode: "host"
 
   redis:
@@ -95,24 +98,6 @@ services:
     privileged: true
     network_mode: "host"
 
-  seata-server:
-    image: ruoyi/ruoyi-seata-server:1.8.0
-    container_name: seata-server
-    ports:
-      - "7091:7091"
-      - "8091:8091"
-    environment:
-      TZ: Asia/Shanghai
-      # 注意 此处ip如果是外网使用 要改为外网ip
-      # SEATA_IP: 127.0.0.1
-      SEATA_PORT: 8091
-    volumes:
-      - /docker/ruoyi-seata-server/logs/:/ruoyi/seata-server/logs
-      # skywalking 探针
-      - /docker/skywalking/agent/:/ruoyi/skywalking/agent
-    privileged: true
-    network_mode: "host"
-
   nginx-web:
     image: nginx:1.22.1
     container_name: nginx-web
@@ -131,6 +116,25 @@ services:
       - /docker/nginx/html:/usr/share/nginx/html
       # 日志目录
       - /docker/nginx/log:/var/log/nginx
+    privileged: true
+    network_mode: "host"
+
+  ################### core ###################
+  seata-server:
+    image: ruoyi/ruoyi-seata-server:1.8.0
+    container_name: seata-server
+    ports:
+      - "7091:7091"
+      - "8091:8091"
+    environment:
+      TZ: Asia/Shanghai
+      # 注意 此处ip如果是外网使用 要改为外网ip
+      # SEATA_IP: 127.0.0.1
+      SEATA_PORT: 8091
+    volumes:
+      - /docker/ruoyi-seata-server/logs/:/ruoyi/seata-server/logs
+      # skywalking 探针
+      - /docker/skywalking/agent/:/ruoyi/skywalking/agent
     privileged: true
     network_mode: "host"
 
@@ -181,6 +185,7 @@ services:
     privileged: true
     network_mode: "host"
 
+  ################### biz ###################
   ruoyi-gateway:
     image: ruoyi/ruoyi-gateway:1.8.0
     container_name: ruoyi-gateway
@@ -229,6 +234,22 @@ services:
     privileged: true
     network_mode: "host"
 
+  ruoyi-resource:
+    image: ruoyi/ruoyi-resource:1.8.0
+    container_name: ruoyi-resource
+    environment:
+      # 时区上海
+      TZ: Asia/Shanghai
+    ports:
+      - "9204:9204"
+    volumes:
+      # 配置文件
+      - /docker/ruoyi-resource/logs/:/ruoyi/resource/logs
+      # skywalking 探针
+      - /docker/skywalking/agent/:/ruoyi/skywalking/agent
+    privileged: true
+    network_mode: "host"
+
   ruoyi-gen:
     image: ruoyi/ruoyi-gen:1.8.0
     container_name: ruoyi-gen
@@ -260,23 +281,6 @@ services:
       - /docker/skywalking/agent/:/ruoyi/skywalking/agent
     privileged: true
     network_mode: "host"
-
-  ruoyi-resource:
-    image: ruoyi/ruoyi-resource:1.8.0
-    container_name: ruoyi-resource
-    environment:
-      # 时区上海
-      TZ: Asia/Shanghai
-    ports:
-      - "9204:9204"
-    volumes:
-      # 配置文件
-      - /docker/ruoyi-resource/logs/:/ruoyi/resource/logs
-      # skywalking 探针
-      - /docker/skywalking/agent/:/ruoyi/skywalking/agent
-    privileged: true
-    network_mode: "host"
-
 
 #################################################################################################
 #################################### 以下为扩展根据需求搭建 #########################################
