@@ -43,3 +43,5 @@ nbdist/
 !*/build/*.java
 !*/build/*.html
 !*/build/*.xml
+
+*.run.xml

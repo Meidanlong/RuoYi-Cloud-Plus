@@ -1,0 +1,1904 @@
+2023-04-15 22:51:06,895 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:07,107 INFO Connection check task start
+
+2023-04-15 22:51:07,112 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:07,115 INFO Connection check task end
+
+2023-04-15 22:51:09,913 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:10,117 INFO Connection check task start
+
+2023-04-15 22:51:10,121 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:10,124 INFO Connection check task end
+
+2023-04-15 22:51:12,917 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:13,128 INFO Connection check task start
+
+2023-04-15 22:51:13,133 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:13,135 INFO Connection check task end
+
+2023-04-15 22:51:15,922 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:16,138 INFO Connection check task start
+
+2023-04-15 22:51:16,142 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:16,144 INFO Connection check task end
+
+2023-04-15 22:51:18,925 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:19,147 INFO Connection check task start
+
+2023-04-15 22:51:19,150 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:19,152 INFO Connection check task end
+
+2023-04-15 22:51:21,931 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:22,155 INFO Connection check task start
+
+2023-04-15 22:51:22,158 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:22,161 INFO Connection check task end
+
+2023-04-15 22:51:24,935 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:25,164 INFO Connection check task start
+
+2023-04-15 22:51:25,168 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:25,171 INFO Connection check task end
+
+2023-04-15 22:51:27,938 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:28,174 INFO Connection check task start
+
+2023-04-15 22:51:28,177 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:28,180 INFO Connection check task end
+
+2023-04-15 22:51:30,943 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:31,183 INFO Connection check task start
+
+2023-04-15 22:51:31,185 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:31,188 INFO Connection check task end
+
+2023-04-15 22:51:33,946 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:34,191 INFO Connection check task start
+
+2023-04-15 22:51:34,194 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:34,197 INFO Connection check task end
+
+2023-04-15 22:51:36,948 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:37,199 INFO Connection check task start
+
+2023-04-15 22:51:37,203 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:37,208 INFO Connection check task end
+
+2023-04-15 22:51:39,953 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:40,211 INFO Connection check task start
+
+2023-04-15 22:51:40,214 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:40,217 INFO Connection check task end
+
+2023-04-15 22:51:42,957 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:43,220 INFO Connection check task start
+
+2023-04-15 22:51:43,224 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:43,227 INFO Connection check task end
+
+2023-04-15 22:51:45,961 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:46,230 INFO Connection check task start
+
+2023-04-15 22:51:46,232 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:46,236 INFO Connection check task end
+
+2023-04-15 22:51:48,965 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:49,239 INFO Connection check task start
+
+2023-04-15 22:51:49,242 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:49,245 INFO Connection check task end
+
+2023-04-15 22:51:51,970 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:52,249 INFO Connection check task start
+
+2023-04-15 22:51:52,253 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:52,256 INFO Connection check task end
+
+2023-04-15 22:51:54,974 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:55,259 INFO Connection check task start
+
+2023-04-15 22:51:55,263 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:55,266 INFO Connection check task end
+
+2023-04-15 22:51:57,978 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:51:58,268 INFO Connection check task start
+
+2023-04-15 22:51:58,271 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:51:58,274 INFO Connection check task end
+
+2023-04-15 22:52:00,982 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:01,278 INFO Connection check task start
+
+2023-04-15 22:52:01,281 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:01,284 INFO Connection check task end
+
+2023-04-15 22:52:03,987 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:04,287 INFO Connection check task start
+
+2023-04-15 22:52:04,291 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:04,294 INFO Connection check task end
+
+2023-04-15 22:52:06,993 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:07,297 INFO Connection check task start
+
+2023-04-15 22:52:07,300 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:07,302 INFO Connection check task end
+
+2023-04-15 22:52:09,997 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:10,305 INFO Connection check task start
+
+2023-04-15 22:52:10,308 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:10,310 INFO Connection check task end
+
+2023-04-15 22:52:13,001 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:13,313 INFO Connection check task start
+
+2023-04-15 22:52:13,316 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:13,318 INFO Connection check task end
+
+2023-04-15 22:52:16,005 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:16,321 INFO Connection check task start
+
+2023-04-15 22:52:16,324 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:16,327 INFO Connection check task end
+
+2023-04-15 22:52:19,008 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:19,330 INFO Connection check task start
+
+2023-04-15 22:52:19,333 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:19,336 INFO Connection check task end
+
+2023-04-15 22:52:22,012 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:22,340 INFO Connection check task start
+
+2023-04-15 22:52:22,343 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:22,346 INFO Connection check task end
+
+2023-04-15 22:52:25,015 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:25,349 INFO Connection check task start
+
+2023-04-15 22:52:25,352 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:25,356 INFO Connection check task end
+
+2023-04-15 22:52:28,019 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:28,359 INFO Connection check task start
+
+2023-04-15 22:52:28,362 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:28,365 INFO Connection check task end
+
+2023-04-15 22:52:31,022 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:31,368 INFO Connection check task start
+
+2023-04-15 22:52:31,371 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:31,374 INFO Connection check task end
+
+2023-04-15 22:52:34,026 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:34,377 INFO Connection check task start
+
+2023-04-15 22:52:34,380 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:34,384 INFO Connection check task end
+
+2023-04-15 22:52:37,029 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:37,387 INFO Connection check task start
+
+2023-04-15 22:52:37,390 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:37,392 INFO Connection check task end
+
+2023-04-15 22:52:40,033 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:40,395 INFO Connection check task start
+
+2023-04-15 22:52:40,398 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:40,401 INFO Connection check task end
+
+2023-04-15 22:52:43,037 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:43,404 INFO Connection check task start
+
+2023-04-15 22:52:43,407 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:43,410 INFO Connection check task end
+
+2023-04-15 22:52:46,041 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:46,412 INFO Connection check task start
+
+2023-04-15 22:52:46,415 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:46,419 INFO Connection check task end
+
+2023-04-15 22:52:49,045 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:49,422 INFO Connection check task start
+
+2023-04-15 22:52:49,425 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:49,427 INFO Connection check task end
+
+2023-04-15 22:52:52,049 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:52,431 INFO Connection check task start
+
+2023-04-15 22:52:52,434 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:52,436 INFO Connection check task end
+
+2023-04-15 22:52:55,053 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:55,439 INFO Connection check task start
+
+2023-04-15 22:52:55,442 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:55,445 INFO Connection check task end
+
+2023-04-15 22:52:58,056 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:52:58,451 INFO Connection check task start
+
+2023-04-15 22:52:58,455 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:52:58,458 INFO Connection check task end
+
+2023-04-15 22:53:01,059 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:01,461 INFO Connection check task start
+
+2023-04-15 22:53:01,464 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:01,467 INFO Connection check task end
+
+2023-04-15 22:53:04,063 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:04,470 INFO Connection check task start
+
+2023-04-15 22:53:04,474 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:04,476 INFO Connection check task end
+
+2023-04-15 22:53:07,067 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:07,480 INFO Connection check task start
+
+2023-04-15 22:53:07,483 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:07,486 INFO Connection check task end
+
+2023-04-15 22:53:10,071 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:10,488 INFO Connection check task start
+
+2023-04-15 22:53:10,491 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:10,494 INFO Connection check task end
+
+2023-04-15 22:53:13,075 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:13,496 INFO Connection check task start
+
+2023-04-15 22:53:13,499 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:13,502 INFO Connection check task end
+
+2023-04-15 22:53:16,079 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:16,504 INFO Connection check task start
+
+2023-04-15 22:53:16,507 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:16,510 INFO Connection check task end
+
+2023-04-15 22:53:19,083 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:19,513 INFO Connection check task start
+
+2023-04-15 22:53:19,516 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:19,519 INFO Connection check task end
+
+2023-04-15 22:53:22,087 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:22,521 INFO Connection check task start
+
+2023-04-15 22:53:22,524 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:22,527 INFO Connection check task end
+
+2023-04-15 22:53:25,091 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:25,530 INFO Connection check task start
+
+2023-04-15 22:53:25,534 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:25,536 INFO Connection check task end
+
+2023-04-15 22:53:28,095 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:28,539 INFO Connection check task start
+
+2023-04-15 22:53:28,542 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:28,546 INFO Connection check task end
+
+2023-04-15 22:53:31,100 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:31,549 INFO Connection check task start
+
+2023-04-15 22:53:31,552 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:31,555 INFO Connection check task end
+
+2023-04-15 22:53:34,103 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:34,558 INFO Connection check task start
+
+2023-04-15 22:53:34,561 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:34,563 INFO Connection check task end
+
+2023-04-15 22:53:37,107 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:37,568 INFO Connection check task start
+
+2023-04-15 22:53:37,571 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:37,573 INFO Connection check task end
+
+2023-04-15 22:53:40,110 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:40,576 INFO Connection check task start
+
+2023-04-15 22:53:40,579 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:40,581 INFO Connection check task end
+
+2023-04-15 22:53:43,114 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:43,584 INFO Connection check task start
+
+2023-04-15 22:53:43,587 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:43,590 INFO Connection check task end
+
+2023-04-15 22:53:46,118 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:46,593 INFO Connection check task start
+
+2023-04-15 22:53:46,596 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:46,599 INFO Connection check task end
+
+2023-04-15 22:53:49,122 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:49,603 INFO Connection check task start
+
+2023-04-15 22:53:49,606 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:49,610 INFO Connection check task end
+
+2023-04-15 22:53:52,126 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:52,612 INFO Connection check task start
+
+2023-04-15 22:53:52,615 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:52,617 INFO Connection check task end
+
+2023-04-15 22:53:55,130 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:55,620 INFO Connection check task start
+
+2023-04-15 22:53:55,622 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:55,625 INFO Connection check task end
+
+2023-04-15 22:53:58,133 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:53:58,628 INFO Connection check task start
+
+2023-04-15 22:53:58,631 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:53:58,634 INFO Connection check task end
+
+2023-04-15 22:54:01,138 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:01,636 INFO Connection check task start
+
+2023-04-15 22:54:01,639 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:01,642 INFO Connection check task end
+
+2023-04-15 22:54:04,141 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:04,644 INFO Connection check task start
+
+2023-04-15 22:54:04,647 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:04,650 INFO Connection check task end
+
+2023-04-15 22:54:07,145 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:07,653 INFO Connection check task start
+
+2023-04-15 22:54:07,656 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:07,659 INFO Connection check task end
+
+2023-04-15 22:54:10,148 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:10,661 INFO Connection check task start
+
+2023-04-15 22:54:10,664 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:10,666 INFO Connection check task end
+
+2023-04-15 22:54:13,152 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:13,669 INFO Connection check task start
+
+2023-04-15 22:54:13,673 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:13,676 INFO Connection check task end
+
+2023-04-15 22:54:16,157 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:16,679 INFO Connection check task start
+
+2023-04-15 22:54:16,682 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:16,684 INFO Connection check task end
+
+2023-04-15 22:54:19,162 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:19,687 INFO Connection check task start
+
+2023-04-15 22:54:19,690 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:19,693 INFO Connection check task end
+
+2023-04-15 22:54:22,166 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:22,696 INFO Connection check task start
+
+2023-04-15 22:54:22,699 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:22,702 INFO Connection check task end
+
+2023-04-15 22:54:25,169 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:25,705 INFO Connection check task start
+
+2023-04-15 22:54:25,708 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:25,710 INFO Connection check task end
+
+2023-04-15 22:54:28,173 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:28,713 INFO Connection check task start
+
+2023-04-15 22:54:28,716 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:28,718 INFO Connection check task end
+
+2023-04-15 22:54:31,176 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:31,721 INFO Connection check task start
+
+2023-04-15 22:54:31,724 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:31,726 INFO Connection check task end
+
+2023-04-15 22:54:34,180 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:34,729 INFO Connection check task start
+
+2023-04-15 22:54:34,732 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:34,735 INFO Connection check task end
+
+2023-04-15 22:54:37,184 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:37,738 INFO Connection check task start
+
+2023-04-15 22:54:37,741 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:37,744 INFO Connection check task end
+
+2023-04-15 22:54:40,187 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:40,746 INFO Connection check task start
+
+2023-04-15 22:54:40,749 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:40,752 INFO Connection check task end
+
+2023-04-15 22:54:43,191 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:43,754 INFO Connection check task start
+
+2023-04-15 22:54:43,758 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:43,760 INFO Connection check task end
+
+2023-04-15 22:54:46,195 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:46,763 INFO Connection check task start
+
+2023-04-15 22:54:46,766 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:46,768 INFO Connection check task end
+
+2023-04-15 22:54:49,198 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:49,771 INFO Connection check task start
+
+2023-04-15 22:54:49,774 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:49,776 INFO Connection check task end
+
+2023-04-15 22:54:52,202 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:52,781 INFO Connection check task start
+
+2023-04-15 22:54:52,785 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:52,788 INFO Connection check task end
+
+2023-04-15 22:54:55,205 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:55,791 INFO Connection check task start
+
+2023-04-15 22:54:55,793 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:55,796 INFO Connection check task end
+
+2023-04-15 22:54:58,208 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:54:58,799 INFO Connection check task start
+
+2023-04-15 22:54:58,802 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:54:58,804 INFO Connection check task end
+
+2023-04-15 22:55:01,212 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:01,807 INFO Connection check task start
+
+2023-04-15 22:55:01,810 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:01,812 INFO Connection check task end
+
+2023-04-15 22:55:04,215 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:04,815 INFO Connection check task start
+
+2023-04-15 22:55:04,818 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:04,820 INFO Connection check task end
+
+2023-04-15 22:55:07,220 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:07,822 INFO Connection check task start
+
+2023-04-15 22:55:07,826 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:07,828 INFO Connection check task end
+
+2023-04-15 22:55:10,224 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:10,831 INFO Connection check task start
+
+2023-04-15 22:55:10,834 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:10,837 INFO Connection check task end
+
+2023-04-15 22:55:13,227 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:13,840 INFO Connection check task start
+
+2023-04-15 22:55:13,843 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:13,845 INFO Connection check task end
+
+2023-04-15 22:55:16,231 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:16,848 INFO Connection check task start
+
+2023-04-15 22:55:16,851 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:16,853 INFO Connection check task end
+
+2023-04-15 22:55:19,235 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:19,856 INFO Connection check task start
+
+2023-04-15 22:55:19,859 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:19,861 INFO Connection check task end
+
+2023-04-15 22:55:22,238 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:22,864 INFO Connection check task start
+
+2023-04-15 22:55:22,867 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:22,870 INFO Connection check task end
+
+2023-04-15 22:55:25,242 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:25,872 INFO Connection check task start
+
+2023-04-15 22:55:25,876 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:25,880 INFO Connection check task end
+
+2023-04-15 22:55:28,245 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:28,882 INFO Connection check task start
+
+2023-04-15 22:55:28,887 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:28,890 INFO Connection check task end
+
+2023-04-15 22:55:31,249 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:31,894 INFO Connection check task start
+
+2023-04-15 22:55:31,896 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:31,899 INFO Connection check task end
+
+2023-04-15 22:55:34,252 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:34,902 INFO Connection check task start
+
+2023-04-15 22:55:34,905 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:34,908 INFO Connection check task end
+
+2023-04-15 22:55:37,256 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:37,912 INFO Connection check task start
+
+2023-04-15 22:55:37,915 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:37,918 INFO Connection check task end
+
+2023-04-15 22:55:40,259 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:40,920 INFO Connection check task start
+
+2023-04-15 22:55:40,923 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:40,925 INFO Connection check task end
+
+2023-04-15 22:55:43,262 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:43,928 INFO Connection check task start
+
+2023-04-15 22:55:43,932 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:43,934 INFO Connection check task end
+
+2023-04-15 22:55:46,266 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:46,937 INFO Connection check task start
+
+2023-04-15 22:55:46,941 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:46,943 INFO Connection check task end
+
+2023-04-15 22:55:49,270 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:49,946 INFO Connection check task start
+
+2023-04-15 22:55:49,949 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:49,951 INFO Connection check task end
+
+2023-04-15 22:55:52,274 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:52,954 INFO Connection check task start
+
+2023-04-15 22:55:52,957 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:52,959 INFO Connection check task end
+
+2023-04-15 22:55:55,277 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:55,962 INFO Connection check task start
+
+2023-04-15 22:55:55,965 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:55,968 INFO Connection check task end
+
+2023-04-15 22:55:58,280 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:55:58,970 INFO Connection check task start
+
+2023-04-15 22:55:58,973 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:55:58,976 INFO Connection check task end
+
+2023-04-15 22:56:01,284 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:01,979 INFO Connection check task start
+
+2023-04-15 22:56:01,981 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:01,983 INFO Connection check task end
+
+2023-04-15 22:56:04,287 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:04,987 INFO Connection check task start
+
+2023-04-15 22:56:04,990 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:04,993 INFO Connection check task end
+
+2023-04-15 22:56:07,291 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:07,997 INFO Connection check task start
+
+2023-04-15 22:56:08,000 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:08,002 INFO Connection check task end
+
+2023-04-15 22:56:10,295 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:11,005 INFO Connection check task start
+
+2023-04-15 22:56:11,008 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:11,010 INFO Connection check task end
+
+2023-04-15 22:56:13,298 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:14,013 INFO Connection check task start
+
+2023-04-15 22:56:14,016 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:14,019 INFO Connection check task end
+
+2023-04-15 22:56:16,302 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:17,022 INFO Connection check task start
+
+2023-04-15 22:56:17,025 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:17,027 INFO Connection check task end
+
+2023-04-15 22:56:19,306 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:20,030 INFO Connection check task start
+
+2023-04-15 22:56:20,033 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:20,035 INFO Connection check task end
+
+2023-04-15 22:56:22,310 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:23,038 INFO Connection check task start
+
+2023-04-15 22:56:23,041 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:23,044 INFO Connection check task end
+
+2023-04-15 22:56:25,313 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:26,047 INFO Connection check task start
+
+2023-04-15 22:56:26,050 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:26,054 INFO Connection check task end
+
+2023-04-15 22:56:28,318 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:29,057 INFO Connection check task start
+
+2023-04-15 22:56:29,060 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:29,063 INFO Connection check task end
+
+2023-04-15 22:56:31,321 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:32,067 INFO Connection check task start
+
+2023-04-15 22:56:32,070 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:32,072 INFO Connection check task end
+
+2023-04-15 22:56:34,324 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:35,075 INFO Connection check task start
+
+2023-04-15 22:56:35,080 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:35,083 INFO Connection check task end
+
+2023-04-15 22:56:37,328 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:38,086 INFO Connection check task start
+
+2023-04-15 22:56:38,089 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:38,092 INFO Connection check task end
+
+2023-04-15 22:56:40,331 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:41,095 INFO Connection check task start
+
+2023-04-15 22:56:41,098 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:41,100 INFO Connection check task end
+
+2023-04-15 22:56:43,335 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:44,102 INFO Connection check task start
+
+2023-04-15 22:56:44,107 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:44,109 INFO Connection check task end
+
+2023-04-15 22:56:46,340 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:47,113 INFO Connection check task start
+
+2023-04-15 22:56:47,116 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:47,118 INFO Connection check task end
+
+2023-04-15 22:56:49,343 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:50,121 INFO Connection check task start
+
+2023-04-15 22:56:50,124 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:50,126 INFO Connection check task end
+
+2023-04-15 22:56:52,347 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:53,129 INFO Connection check task start
+
+2023-04-15 22:56:53,133 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:53,136 INFO Connection check task end
+
+2023-04-15 22:56:55,350 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:56,139 INFO Connection check task start
+
+2023-04-15 22:56:56,141 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:56,144 INFO Connection check task end
+
+2023-04-15 22:56:58,354 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:56:59,147 INFO Connection check task start
+
+2023-04-15 22:56:59,150 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:56:59,153 INFO Connection check task end
+
+2023-04-15 22:57:01,357 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:02,155 INFO Connection check task start
+
+2023-04-15 22:57:02,158 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:02,161 INFO Connection check task end
+
+2023-04-15 22:57:04,361 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:05,164 INFO Connection check task start
+
+2023-04-15 22:57:05,167 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:05,170 INFO Connection check task end
+
+2023-04-15 22:57:07,364 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:08,173 INFO Connection check task start
+
+2023-04-15 22:57:08,177 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:08,179 INFO Connection check task end
+
+2023-04-15 22:57:10,367 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:11,182 INFO Connection check task start
+
+2023-04-15 22:57:11,185 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:11,188 INFO Connection check task end
+
+2023-04-15 22:57:13,371 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:14,191 INFO Connection check task start
+
+2023-04-15 22:57:14,193 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:14,196 INFO Connection check task end
+
+2023-04-15 22:57:16,375 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:17,199 INFO Connection check task start
+
+2023-04-15 22:57:17,202 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:17,204 INFO Connection check task end
+
+2023-04-15 22:57:19,379 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:20,207 INFO Connection check task start
+
+2023-04-15 22:57:20,210 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:20,212 INFO Connection check task end
+
+2023-04-15 22:57:22,383 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:23,216 INFO Connection check task start
+
+2023-04-15 22:57:23,218 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:23,221 INFO Connection check task end
+
+2023-04-15 22:57:25,386 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:26,224 INFO Connection check task start
+
+2023-04-15 22:57:26,227 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:26,230 INFO Connection check task end
+
+2023-04-15 22:57:28,389 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:29,234 INFO Connection check task start
+
+2023-04-15 22:57:29,237 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:29,241 INFO Connection check task end
+
+2023-04-15 22:57:31,393 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:32,244 INFO Connection check task start
+
+2023-04-15 22:57:32,247 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:32,249 INFO Connection check task end
+
+2023-04-15 22:57:34,396 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:35,252 INFO Connection check task start
+
+2023-04-15 22:57:35,255 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:35,257 INFO Connection check task end
+
+2023-04-15 22:57:37,400 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:38,260 INFO Connection check task start
+
+2023-04-15 22:57:38,264 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:38,266 INFO Connection check task end
+
+2023-04-15 22:57:40,403 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:41,269 INFO Connection check task start
+
+2023-04-15 22:57:41,272 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:41,275 INFO Connection check task end
+
+2023-04-15 22:57:43,407 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:44,278 INFO Connection check task start
+
+2023-04-15 22:57:44,281 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:44,283 INFO Connection check task end
+
+2023-04-15 22:57:46,411 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:47,286 INFO Connection check task start
+
+2023-04-15 22:57:47,289 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:47,291 INFO Connection check task end
+
+2023-04-15 22:57:49,415 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:50,294 INFO Connection check task start
+
+2023-04-15 22:57:50,298 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:50,300 INFO Connection check task end
+
+2023-04-15 22:57:52,418 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:53,303 INFO Connection check task start
+
+2023-04-15 22:57:53,306 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:53,309 INFO Connection check task end
+
+2023-04-15 22:57:55,421 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:56,312 INFO Connection check task start
+
+2023-04-15 22:57:56,315 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:56,317 INFO Connection check task end
+
+2023-04-15 22:57:58,425 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:57:59,321 INFO Connection check task start
+
+2023-04-15 22:57:59,325 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:57:59,327 INFO Connection check task end
+
+2023-04-15 22:58:01,428 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:02,330 INFO Connection check task start
+
+2023-04-15 22:58:02,333 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:02,336 INFO Connection check task end
+
+2023-04-15 22:58:04,432 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:05,340 INFO Connection check task start
+
+2023-04-15 22:58:05,342 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:05,349 INFO Connection check task end
+
+2023-04-15 22:58:07,436 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:08,354 INFO Connection check task start
+
+2023-04-15 22:58:08,357 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:08,359 INFO Connection check task end
+
+2023-04-15 22:58:10,439 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:11,362 INFO Connection check task start
+
+2023-04-15 22:58:11,366 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:11,368 INFO Connection check task end
+
+2023-04-15 22:58:13,443 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:14,371 INFO Connection check task start
+
+2023-04-15 22:58:14,374 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:14,377 INFO Connection check task end
+
+2023-04-15 22:58:16,446 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:17,379 INFO Connection check task start
+
+2023-04-15 22:58:17,382 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:17,385 INFO Connection check task end
+
+2023-04-15 22:58:19,450 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:20,388 INFO Connection check task start
+
+2023-04-15 22:58:20,392 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:20,395 INFO Connection check task end
+
+2023-04-15 22:58:22,453 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:23,398 INFO Connection check task start
+
+2023-04-15 22:58:23,400 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:23,402 INFO Connection check task end
+
+2023-04-15 22:58:25,456 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:26,405 INFO Connection check task start
+
+2023-04-15 22:58:26,408 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:26,411 INFO Connection check task end
+
+2023-04-15 22:58:28,460 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:29,413 INFO Connection check task start
+
+2023-04-15 22:58:29,416 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:29,420 INFO Connection check task end
+
+2023-04-15 22:58:31,463 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:32,423 INFO Connection check task start
+
+2023-04-15 22:58:32,426 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:32,429 INFO Connection check task end
+
+2023-04-15 22:58:34,466 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:35,432 INFO Connection check task start
+
+2023-04-15 22:58:35,435 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:35,438 INFO Connection check task end
+
+2023-04-15 22:58:37,470 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:38,441 INFO Connection check task start
+
+2023-04-15 22:58:38,445 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:38,447 INFO Connection check task end
+
+2023-04-15 22:58:40,473 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:41,450 INFO Connection check task start
+
+2023-04-15 22:58:41,453 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:41,456 INFO Connection check task end
+
+2023-04-15 22:58:43,478 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:44,459 INFO Connection check task start
+
+2023-04-15 22:58:44,463 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:44,465 INFO Connection check task end
+
+2023-04-15 22:58:46,481 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:47,468 INFO Connection check task start
+
+2023-04-15 22:58:47,471 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:47,473 INFO Connection check task end
+
+2023-04-15 22:58:49,484 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:50,476 INFO Connection check task start
+
+2023-04-15 22:58:50,479 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:50,481 INFO Connection check task end
+
+2023-04-15 22:58:52,488 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:53,484 INFO Connection check task start
+
+2023-04-15 22:58:53,487 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:53,489 INFO Connection check task end
+
+2023-04-15 22:58:55,491 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:56,492 INFO Connection check task start
+
+2023-04-15 22:58:56,495 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:56,497 INFO Connection check task end
+
+2023-04-15 22:58:58,495 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:58:59,501 INFO Connection check task start
+
+2023-04-15 22:58:59,504 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:58:59,507 INFO Connection check task end
+
+2023-04-15 22:59:01,499 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:02,509 INFO Connection check task start
+
+2023-04-15 22:59:02,512 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:02,514 INFO Connection check task end
+
+2023-04-15 22:59:04,502 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:05,517 INFO Connection check task start
+
+2023-04-15 22:59:05,521 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:05,523 INFO Connection check task end
+
+2023-04-15 22:59:07,506 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:08,526 INFO Connection check task start
+
+2023-04-15 22:59:08,530 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:08,532 INFO Connection check task end
+
+2023-04-15 22:59:10,509 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:11,535 INFO Connection check task start
+
+2023-04-15 22:59:11,538 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:11,541 INFO Connection check task end
+
+2023-04-15 22:59:13,513 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:14,544 INFO Connection check task start
+
+2023-04-15 22:59:14,548 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:14,551 INFO Connection check task end
+
+2023-04-15 22:59:16,517 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:17,554 INFO Connection check task start
+
+2023-04-15 22:59:17,558 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:17,561 INFO Connection check task end
+
+2023-04-15 22:59:19,521 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:20,564 INFO Connection check task start
+
+2023-04-15 22:59:20,567 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:20,570 INFO Connection check task end
+
+2023-04-15 22:59:22,525 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:23,573 INFO Connection check task start
+
+2023-04-15 22:59:23,576 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:23,579 INFO Connection check task end
+
+2023-04-15 22:59:25,528 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:26,581 INFO Connection check task start
+
+2023-04-15 22:59:26,585 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:26,588 INFO Connection check task end
+
+2023-04-15 22:59:28,532 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:29,591 INFO Connection check task start
+
+2023-04-15 22:59:29,597 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:29,600 INFO Connection check task end
+
+2023-04-15 22:59:31,536 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:32,603 INFO Connection check task start
+
+2023-04-15 22:59:32,606 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:32,609 INFO Connection check task end
+
+2023-04-15 22:59:34,539 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:35,612 INFO Connection check task start
+
+2023-04-15 22:59:35,615 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:35,618 INFO Connection check task end
+
+2023-04-15 22:59:37,543 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:38,621 INFO Connection check task start
+
+2023-04-15 22:59:38,625 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:38,627 INFO Connection check task end
+
+2023-04-15 22:59:40,546 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:41,629 INFO Connection check task start
+
+2023-04-15 22:59:41,633 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:41,636 INFO Connection check task end
+
+2023-04-15 22:59:43,550 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:44,639 INFO Connection check task start
+
+2023-04-15 22:59:44,642 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:44,645 INFO Connection check task end
+
+2023-04-15 22:59:46,554 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:47,648 INFO Connection check task start
+
+2023-04-15 22:59:47,652 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:47,654 INFO Connection check task end
+
+2023-04-15 22:59:49,556 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:50,657 INFO Connection check task start
+
+2023-04-15 22:59:50,662 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:50,665 INFO Connection check task end
+
+2023-04-15 22:59:52,560 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:53,668 INFO Connection check task start
+
+2023-04-15 22:59:53,672 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:53,675 INFO Connection check task end
+
+2023-04-15 22:59:55,565 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:56,678 INFO Connection check task start
+
+2023-04-15 22:59:56,682 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:56,685 INFO Connection check task end
+
+2023-04-15 22:59:58,569 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 22:59:59,688 INFO Connection check task start
+
+2023-04-15 22:59:59,691 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 22:59:59,693 INFO Connection check task end
+
+2023-04-15 23:00:01,574 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:02,695 INFO Connection check task start
+
+2023-04-15 23:00:02,699 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:02,701 INFO Connection check task end
+
+2023-04-15 23:00:04,577 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:05,705 INFO Connection check task start
+
+2023-04-15 23:00:05,708 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:05,711 INFO Connection check task end
+
+2023-04-15 23:00:07,581 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:08,714 INFO Connection check task start
+
+2023-04-15 23:00:08,718 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:08,722 INFO Connection check task end
+
+2023-04-15 23:00:10,586 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:11,726 INFO Connection check task start
+
+2023-04-15 23:00:11,728 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:11,731 INFO Connection check task end
+
+2023-04-15 23:00:13,589 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:14,734 INFO Connection check task start
+
+2023-04-15 23:00:14,737 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:14,740 INFO Connection check task end
+
+2023-04-15 23:00:16,593 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:17,744 INFO Connection check task start
+
+2023-04-15 23:00:17,747 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:17,749 INFO Connection check task end
+
+2023-04-15 23:00:19,596 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:20,752 INFO Connection check task start
+
+2023-04-15 23:00:20,756 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:20,759 INFO Connection check task end
+
+2023-04-15 23:00:22,601 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:23,763 INFO Connection check task start
+
+2023-04-15 23:00:23,766 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:23,768 INFO Connection check task end
+
+2023-04-15 23:00:25,604 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:26,771 INFO Connection check task start
+
+2023-04-15 23:00:26,774 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:26,776 INFO Connection check task end
+
+2023-04-15 23:00:28,607 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:29,779 INFO Connection check task start
+
+2023-04-15 23:00:29,783 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:29,785 INFO Connection check task end
+
+2023-04-15 23:00:31,613 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:32,788 INFO Connection check task start
+
+2023-04-15 23:00:32,792 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:32,795 INFO Connection check task end
+
+2023-04-15 23:00:34,616 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:35,799 INFO Connection check task start
+
+2023-04-15 23:00:35,801 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:35,807 INFO Connection check task end
+
+2023-04-15 23:00:37,621 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:38,810 INFO Connection check task start
+
+2023-04-15 23:00:38,814 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:38,817 INFO Connection check task end
+
+2023-04-15 23:00:40,624 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:41,820 INFO Connection check task start
+
+2023-04-15 23:00:41,823 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:41,826 INFO Connection check task end
+
+2023-04-15 23:00:43,627 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:44,829 INFO Connection check task start
+
+2023-04-15 23:00:44,834 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:44,837 INFO Connection check task end
+
+2023-04-15 23:00:46,632 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:47,841 INFO Connection check task start
+
+2023-04-15 23:00:47,845 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:47,848 INFO Connection check task end
+
+2023-04-15 23:00:49,636 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:50,851 INFO Connection check task start
+
+2023-04-15 23:00:50,856 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:50,859 INFO Connection check task end
+
+2023-04-15 23:00:52,640 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:53,862 INFO Connection check task start
+
+2023-04-15 23:00:53,865 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:53,868 INFO Connection check task end
+
+2023-04-15 23:00:55,645 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:56,872 INFO Connection check task start
+
+2023-04-15 23:00:56,875 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:56,878 INFO Connection check task end
+
+2023-04-15 23:00:58,649 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:00:59,882 INFO Connection check task start
+
+2023-04-15 23:00:59,886 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:00:59,888 INFO Connection check task end
+
+2023-04-15 23:01:01,653 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:02,891 INFO Connection check task start
+
+2023-04-15 23:01:02,896 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:02,899 INFO Connection check task end
+
+2023-04-15 23:01:04,665 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:05,911 INFO Connection check task start
+
+2023-04-15 23:01:05,913 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:05,918 INFO Connection check task end
+
+2023-04-15 23:01:07,669 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:08,920 INFO Connection check task start
+
+2023-04-15 23:01:08,923 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:08,926 INFO Connection check task end
+
+2023-04-15 23:01:10,673 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:11,930 INFO Connection check task start
+
+2023-04-15 23:01:11,933 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:11,936 INFO Connection check task end
+
+2023-04-15 23:01:13,677 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:14,939 INFO Connection check task start
+
+2023-04-15 23:01:14,943 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:14,946 INFO Connection check task end
+
+2023-04-15 23:01:16,681 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:17,948 INFO Connection check task start
+
+2023-04-15 23:01:17,952 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:17,955 INFO Connection check task end
+
+2023-04-15 23:01:19,685 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:20,959 INFO Connection check task start
+
+2023-04-15 23:01:20,963 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:20,965 INFO Connection check task end
+
+2023-04-15 23:01:22,689 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:23,971 INFO Connection check task start
+
+2023-04-15 23:01:23,975 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:23,978 INFO Connection check task end
+
+2023-04-15 23:01:25,693 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:26,980 INFO Connection check task start
+
+2023-04-15 23:01:26,984 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:26,986 INFO Connection check task end
+
+2023-04-15 23:01:28,697 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:29,989 INFO Connection check task start
+
+2023-04-15 23:01:29,993 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:29,996 INFO Connection check task end
+
+2023-04-15 23:01:31,702 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:33,000 INFO Connection check task start
+
+2023-04-15 23:01:33,004 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:33,008 INFO Connection check task end
+
+2023-04-15 23:01:34,710 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:36,014 INFO Connection check task start
+
+2023-04-15 23:01:36,018 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:36,021 INFO Connection check task end
+
+2023-04-15 23:01:37,714 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:39,024 INFO Connection check task start
+
+2023-04-15 23:01:39,028 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:39,031 INFO Connection check task end
+
+2023-04-15 23:01:40,718 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:42,034 INFO Connection check task start
+
+2023-04-15 23:01:42,038 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:42,042 INFO Connection check task end
+
+2023-04-15 23:01:43,723 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:45,045 INFO Connection check task start
+
+2023-04-15 23:01:45,049 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:45,052 INFO Connection check task end
+
+2023-04-15 23:01:46,728 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:48,055 INFO Connection check task start
+
+2023-04-15 23:01:48,059 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:48,062 INFO Connection check task end
+
+2023-04-15 23:01:49,732 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:51,066 INFO Connection check task start
+
+2023-04-15 23:01:51,071 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:51,075 INFO Connection check task end
+
+2023-04-15 23:01:52,737 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:54,079 INFO Connection check task start
+
+2023-04-15 23:01:54,083 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:54,087 INFO Connection check task end
+
+2023-04-15 23:01:55,741 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:01:57,090 INFO Connection check task start
+
+2023-04-15 23:01:57,093 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:01:57,095 INFO Connection check task end
+
+2023-04-15 23:01:58,744 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:00,098 INFO Connection check task start
+
+2023-04-15 23:02:00,102 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:00,106 INFO Connection check task end
+
+2023-04-15 23:02:01,749 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:03,109 INFO Connection check task start
+
+2023-04-15 23:02:03,115 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:03,118 INFO Connection check task end
+
+2023-04-15 23:02:04,755 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:06,122 INFO Connection check task start
+
+2023-04-15 23:02:06,127 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:06,130 INFO Connection check task end
+
+2023-04-15 23:02:07,759 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:09,134 INFO Connection check task start
+
+2023-04-15 23:02:09,139 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:09,142 INFO Connection check task end
+
+2023-04-15 23:02:10,763 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:12,145 INFO Connection check task start
+
+2023-04-15 23:02:12,151 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:12,154 INFO Connection check task end
+
+2023-04-15 23:02:13,769 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:15,157 INFO Connection check task start
+
+2023-04-15 23:02:15,161 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:15,165 INFO Connection check task end
+
+2023-04-15 23:02:16,773 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:18,169 INFO Connection check task start
+
+2023-04-15 23:02:18,172 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:18,174 INFO Connection check task end
+
+2023-04-15 23:02:19,778 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:21,177 INFO Connection check task start
+
+2023-04-15 23:02:21,181 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:21,186 INFO Connection check task end
+
+2023-04-15 23:02:22,783 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:24,188 INFO Connection check task start
+
+2023-04-15 23:02:24,192 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:24,196 INFO Connection check task end
+
+2023-04-15 23:02:25,788 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:27,199 INFO Connection check task start
+
+2023-04-15 23:02:27,202 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:27,206 INFO Connection check task end
+
+2023-04-15 23:02:28,791 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:30,209 INFO Connection check task start
+
+2023-04-15 23:02:30,211 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:30,214 INFO Connection check task end
+
+2023-04-15 23:02:31,795 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:33,217 INFO Connection check task start
+
+2023-04-15 23:02:33,221 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:33,224 INFO Connection check task end
+
+2023-04-15 23:02:34,801 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:36,227 INFO Connection check task start
+
+2023-04-15 23:02:36,230 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:36,233 INFO Connection check task end
+
+2023-04-15 23:02:37,806 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:39,236 INFO Connection check task start
+
+2023-04-15 23:02:39,241 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:39,245 INFO Connection check task end
+
+2023-04-15 23:02:40,810 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:42,248 INFO Connection check task start
+
+2023-04-15 23:02:42,251 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:42,254 INFO Connection check task end
+
+2023-04-15 23:02:43,814 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:45,256 INFO Connection check task start
+
+2023-04-15 23:02:45,260 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:45,262 INFO Connection check task end
+
+2023-04-15 23:02:46,819 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:48,266 INFO Connection check task start
+
+2023-04-15 23:02:48,269 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:48,272 INFO Connection check task end
+
+2023-04-15 23:02:49,824 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:51,275 INFO Connection check task start
+
+2023-04-15 23:02:51,279 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:51,281 INFO Connection check task end
+
+2023-04-15 23:02:52,829 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:54,285 INFO Connection check task start
+
+2023-04-15 23:02:54,288 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:54,291 INFO Connection check task end
+
+2023-04-15 23:02:55,834 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:02:57,295 INFO Connection check task start
+
+2023-04-15 23:02:57,300 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:02:57,304 INFO Connection check task end
+
+2023-04-15 23:02:58,839 INFO ConnectionMetrics, totalCount = 3, detail = {long_connection=2, long_polling=1}
+
+2023-04-15 23:03:00,308 INFO Connection check task start
+
+2023-04-15 23:03:00,326 INFO Long connection metrics detail ,Total count =2, sdkCount=2,clusterCount=0
+
+2023-04-15 23:03:00,330 INFO Connection check task end
+

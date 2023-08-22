@@ -1,0 +1,440 @@
+2023-04-10 09:52:03,310 WARN clearConfigHistory start
+
+2023-04-10 09:52:03,326 WARN clearConfigHistory, getBeforeStamp:2023-03-11 09:52:03.0, pageSize:1000
+
+2023-04-10 09:52:03,329 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 09:52:03,332 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 09:52:03,352 INFO [capacityManagement] start correct usage
+
+2023-04-10 09:52:03,356 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 09:52:03,358 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 09:52:03,361 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 09:52:03,363 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 09:52:03,365 INFO [capacityManagement] end correct usage, cost: 0.009393902s
+
+2023-04-10 10:02:03,346 WARN clearConfigHistory start
+
+2023-04-10 10:02:03,352 WARN clearConfigHistory, getBeforeStamp:2023-03-11 10:02:03.0, pageSize:1000
+
+2023-04-10 10:02:03,355 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 10:02:03,358 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 10:02:03,367 INFO [capacityManagement] start correct usage
+
+2023-04-10 10:02:03,373 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 10:02:03,374 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 10:02:03,380 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 10:02:03,381 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 10:02:03,382 INFO [capacityManagement] end correct usage, cost: 0.009817939s
+
+2023-04-10 10:13:26,036 WARN clearConfigHistory start
+
+2023-04-10 10:13:26,042 WARN clearConfigHistory, getBeforeStamp:2023-03-11 10:13:26.0, pageSize:1000
+
+2023-04-10 10:13:26,045 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 10:13:26,047 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 10:13:26,047 INFO [capacityManagement] start correct usage
+
+2023-04-10 10:13:26,050 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 10:13:26,052 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 10:13:26,055 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 10:13:26,056 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 10:13:26,058 INFO [capacityManagement] end correct usage, cost: 0.007850759s
+
+2023-04-10 20:44:33,277 WARN clearConfigHistory start
+
+2023-04-10 20:44:33,281 WARN clearConfigHistory, getBeforeStamp:2023-03-11 20:44:33.0, pageSize:1000
+
+2023-04-10 20:44:33,282 INFO [capacityManagement] start correct usage
+
+2023-04-10 20:44:33,284 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 20:44:33,286 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 20:44:33,283 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 20:44:33,290 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 20:44:33,290 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 20:44:33,294 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 20:44:33,296 INFO [capacityManagement] end correct usage, cost: 0.011606802s
+
+2023-04-10 20:54:33,137 WARN clearConfigHistory start
+
+2023-04-10 20:54:33,143 WARN clearConfigHistory, getBeforeStamp:2023-03-11 20:54:33.0, pageSize:1000
+
+2023-04-10 20:54:33,145 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 20:54:33,140 INFO [capacityManagement] start correct usage
+
+2023-04-10 20:54:33,147 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 20:54:33,147 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 20:54:33,151 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 20:54:33,154 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 20:54:33,155 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 20:54:33,158 INFO [capacityManagement] end correct usage, cost: 0.010421831s
+
+2023-04-10 21:04:33,143 WARN clearConfigHistory start
+
+2023-04-10 21:04:33,149 WARN clearConfigHistory, getBeforeStamp:2023-03-11 21:04:33.0, pageSize:1000
+
+2023-04-10 21:04:33,151 INFO [capacityManagement] start correct usage
+
+2023-04-10 21:04:33,152 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 21:04:33,151 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 21:04:33,156 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 21:04:33,155 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 21:04:33,173 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 21:04:33,175 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 21:04:33,178 INFO [capacityManagement] end correct usage, cost: 0.026065367s
+
+2023-04-10 21:14:33,147 WARN clearConfigHistory start
+
+2023-04-10 21:14:33,187 INFO [capacityManagement] start correct usage
+
+2023-04-10 21:14:33,189 WARN clearConfigHistory, getBeforeStamp:2023-03-11 21:14:33.0, pageSize:1000
+
+2023-04-10 21:14:33,203 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 21:14:33,198 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 21:14:33,222 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 21:14:33,223 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 21:14:33,229 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 21:14:33,231 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 21:14:33,234 INFO [capacityManagement] end correct usage, cost: 0.035628211s
+
+2023-04-10 21:24:33,212 WARN clearConfigHistory start
+
+2023-04-10 21:24:33,220 INFO [capacityManagement] start correct usage
+
+2023-04-10 21:24:33,225 WARN clearConfigHistory, getBeforeStamp:2023-03-11 21:24:33.0, pageSize:1000
+
+2023-04-10 21:24:33,259 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 21:24:33,225 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 21:24:33,276 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 21:24:33,277 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 21:24:33,288 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 21:24:33,291 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 21:24:33,294 INFO [capacityManagement] end correct usage, cost: 0.069142495s
+
+2023-04-10 21:34:33,270 WARN clearConfigHistory start
+
+2023-04-10 21:34:33,273 INFO [capacityManagement] start correct usage
+
+2023-04-10 21:34:33,275 WARN clearConfigHistory, getBeforeStamp:2023-03-11 21:34:33.0, pageSize:1000
+
+2023-04-10 21:34:33,277 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 21:34:33,276 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 21:34:33,279 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 21:34:33,280 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 21:34:33,291 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 21:34:33,292 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 21:34:33,294 INFO [capacityManagement] end correct usage, cost: 0.018020118s
+
+2023-04-10 21:44:33,293 WARN clearConfigHistory start
+
+2023-04-10 21:44:33,299 WARN clearConfigHistory, getBeforeStamp:2023-03-11 21:44:33.0, pageSize:1000
+
+2023-04-10 21:44:33,301 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 21:44:33,303 INFO [capacityManagement] start correct usage
+
+2023-04-10 21:44:33,306 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 21:44:33,304 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 21:44:33,307 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 21:44:33,313 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 21:44:33,315 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 21:44:33,316 INFO [capacityManagement] end correct usage, cost: 0.010963727s
+
+2023-04-10 21:54:33,284 WARN clearConfigHistory start
+
+2023-04-10 21:54:33,290 INFO [capacityManagement] start correct usage
+
+2023-04-10 21:54:33,292 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 21:54:33,291 WARN clearConfigHistory, getBeforeStamp:2023-03-11 21:54:33.0, pageSize:1000
+
+2023-04-10 21:54:33,293 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 21:54:33,296 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 21:54:33,301 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 21:54:33,305 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 21:54:33,308 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 21:54:33,311 INFO [capacityManagement] end correct usage, cost: 0.018727665s
+
+2023-04-10 22:04:33,286 WARN clearConfigHistory start
+
+2023-04-10 22:04:33,292 WARN clearConfigHistory, getBeforeStamp:2023-03-11 22:04:33.0, pageSize:1000
+
+2023-04-10 22:04:33,296 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 22:04:33,297 INFO [capacityManagement] start correct usage
+
+2023-04-10 22:04:33,298 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 22:04:33,300 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 22:04:33,303 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 22:04:33,311 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 22:04:33,314 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 22:04:33,319 INFO [capacityManagement] end correct usage, cost: 0.018691271s
+
+2023-04-10 22:14:33,299 WARN clearConfigHistory start
+
+2023-04-10 22:14:33,304 WARN clearConfigHistory, getBeforeStamp:2023-03-11 22:14:33.0, pageSize:1000
+
+2023-04-10 22:14:33,307 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 22:14:33,309 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 22:14:33,351 INFO [capacityManagement] start correct usage
+
+2023-04-10 22:14:33,353 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 22:14:33,357 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 22:14:33,361 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 22:14:33,362 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 22:14:33,364 INFO [capacityManagement] end correct usage, cost: 0.011491476s
+
+2023-04-10 22:24:33,278 WARN clearConfigHistory start
+
+2023-04-10 22:24:33,282 WARN clearConfigHistory, getBeforeStamp:2023-03-11 22:24:33.0, pageSize:1000
+
+2023-04-10 22:24:33,283 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 22:24:33,285 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 22:24:33,332 INFO [capacityManagement] start correct usage
+
+2023-04-10 22:24:33,335 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 22:24:33,336 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 22:24:33,340 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 22:24:33,342 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 22:24:33,344 INFO [capacityManagement] end correct usage, cost: 0.009449456s
+
+2023-04-10 22:34:33,285 WARN clearConfigHistory start
+
+2023-04-10 22:34:33,290 WARN clearConfigHistory, getBeforeStamp:2023-03-11 22:34:33.0, pageSize:1000
+
+2023-04-10 22:34:33,293 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 22:34:33,294 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 22:34:33,342 INFO [capacityManagement] start correct usage
+
+2023-04-10 22:34:33,344 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 22:34:33,349 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 22:34:33,354 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 22:34:33,355 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 22:34:33,357 INFO [capacityManagement] end correct usage, cost: 0.012662378s
+
+2023-04-10 22:44:33,292 WARN clearConfigHistory start
+
+2023-04-10 22:44:33,298 WARN clearConfigHistory, getBeforeStamp:2023-03-11 22:44:33.0, pageSize:1000
+
+2023-04-10 22:44:33,300 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 22:44:33,302 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 22:44:33,350 INFO [capacityManagement] start correct usage
+
+2023-04-10 22:44:33,352 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 22:44:33,356 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 22:44:33,359 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 22:44:33,361 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 22:44:33,364 INFO [capacityManagement] end correct usage, cost: 0.01212074s
+
+2023-04-10 22:54:33,290 WARN clearConfigHistory start
+
+2023-04-10 22:54:33,296 WARN clearConfigHistory, getBeforeStamp:2023-03-11 22:54:33.0, pageSize:1000
+
+2023-04-10 22:54:33,300 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 22:54:33,302 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 22:54:33,350 INFO [capacityManagement] start correct usage
+
+2023-04-10 22:54:33,351 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 22:54:33,354 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 22:54:33,356 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 22:54:33,357 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 22:54:33,360 INFO [capacityManagement] end correct usage, cost: 0.008934696s
+
+2023-04-10 23:04:33,275 WARN clearConfigHistory start
+
+2023-04-10 23:04:33,281 WARN clearConfigHistory, getBeforeStamp:2023-03-11 23:04:33.0, pageSize:1000
+
+2023-04-10 23:04:33,283 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 23:04:33,285 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 23:04:33,330 INFO [capacityManagement] start correct usage
+
+2023-04-10 23:04:33,333 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 23:04:33,335 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 23:04:33,341 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 23:04:33,342 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 23:04:33,347 INFO [capacityManagement] end correct usage, cost: 0.014181122s
+
+2023-04-10 23:14:33,296 WARN clearConfigHistory start
+
+2023-04-10 23:14:33,302 WARN clearConfigHistory, getBeforeStamp:2023-03-11 23:14:33.0, pageSize:1000
+
+2023-04-10 23:14:33,305 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 23:14:33,307 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 23:14:33,353 INFO [capacityManagement] start correct usage
+
+2023-04-10 23:14:33,355 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 23:14:33,361 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 23:14:33,365 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 23:14:33,366 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 23:14:33,369 INFO [capacityManagement] end correct usage, cost: 0.013557198s
+
+2023-04-10 23:35:33,444 WARN clearConfigHistory start
+
+2023-04-10 23:35:33,449 WARN clearConfigHistory, getBeforeStamp:2023-03-11 23:35:33.0, pageSize:1000
+
+2023-04-10 23:35:33,451 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 23:35:33,453 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 23:35:33,507 INFO [capacityManagement] start correct usage
+
+2023-04-10 23:35:33,509 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 23:35:33,511 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 23:35:33,515 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 23:35:33,517 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 23:35:33,519 INFO [capacityManagement] end correct usage, cost: 0.010341822s
+
+2023-04-10 23:45:33,451 WARN clearConfigHistory start
+
+2023-04-10 23:45:33,456 WARN clearConfigHistory, getBeforeStamp:2023-03-11 23:45:33.0, pageSize:1000
+
+2023-04-10 23:45:33,458 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 23:45:33,460 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 23:45:33,513 INFO [capacityManagement] start correct usage
+
+2023-04-10 23:45:33,514 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 23:45:33,517 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 23:45:33,521 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 23:45:33,522 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 23:45:33,527 INFO [capacityManagement] end correct usage, cost: 0.012855475s
+
+2023-04-10 23:55:33,453 WARN clearConfigHistory start
+
+2023-04-10 23:55:33,461 WARN clearConfigHistory, getBeforeStamp:2023-03-11 23:55:33.0, pageSize:1000
+
+2023-04-10 23:55:33,462 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-10 23:55:33,464 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-10 23:55:33,514 INFO [capacityManagement] start correct usage
+
+2023-04-10 23:55:33,516 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-10 23:55:33,518 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-10 23:55:33,521 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-10 23:55:33,522 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-10 23:55:33,524 INFO [capacityManagement] end correct usage, cost: 0.008631351s
+

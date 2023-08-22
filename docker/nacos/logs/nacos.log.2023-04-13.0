@@ -1,0 +1,20 @@
+2023-04-13 08:39:03,795 WARN clearConfigHistory start
+
+2023-04-13 08:39:03,815 WARN clearConfigHistory, getBeforeStamp:2023-03-14 08:39:03.0, pageSize:1000
+
+2023-04-13 08:39:03,819 INFO [MapperManager] findMapper dataSource: mysql, tableName: his_config_info
+
+2023-04-13 08:39:03,830 INFO [HistoryConfigInfoMapperByMySql] METHOD : removeConfigHistory, SQL : DELETE FROM his_config_info WHERE gmt_modified < ? LIMIT ?, ARGS : null
+
+2023-04-13 08:39:03,849 INFO [capacityManagement] start correct usage
+
+2023-04-13 08:39:03,855 INFO [MapperManager] findMapper dataSource: mysql, tableName: group_capacity
+
+2023-04-13 08:39:03,857 INFO [GroupCapacityMapperByMysql] METHOD : selectGroupInfoBySize, SQL : SELECT id, group_id FROM group_capacity WHERE id > ? LIMIT ?, ARGS : null
+
+2023-04-13 08:39:03,865 INFO [MapperManager] findMapper dataSource: mysql, tableName: tenant_capacity
+
+2023-04-13 08:39:03,866 INFO [TenantCapacityMapperByMySql] METHOD : getCapacityList4CorrectUsage, SQL : SELECT id, tenant_id FROM tenant_capacity WHERE id>? LIMIT ?, ARGS : null
+
+2023-04-13 08:39:03,870 INFO [capacityManagement] end correct usage, cost: 0.015755913s
+

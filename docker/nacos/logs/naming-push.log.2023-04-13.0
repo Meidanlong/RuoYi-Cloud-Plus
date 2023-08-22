@@ -1,0 +1,6 @@
+2023-04-13 08:35:55,921 INFO [PUSH] Task merge for Service{namespace='dev', group='DEFAULT_GROUP', name='ruoyi-seata-server', ephemeral=true, revision=10}
+
+2023-04-13 08:35:56,511 INFO [PUSH-SUCC] 32ms, all delay time 613ms, SLA 590ms, Service{namespace='dev', group='DEFAULT_GROUP', name='ruoyi-seata-server', ephemeral=true, revision=10}, originalSize=0, DataSize=0, target=192.168.65.4
+
+2023-04-13 08:36:00,477 INFO [PUSH-SUCC] 65ms, all delay time 586ms, SLA 587ms, Service{namespace='dev', group='DEFAULT_GROUP', name='ruoyi-seata-server', ephemeral=true, revision=11}, originalSize=1, DataSize=1, target=192.168.65.4
+
