@@ -44,4 +44,5 @@ nbdist/
 !*/build/*.html
 !*/build/*.xml
 
-*.run.xml
+**.run.xml
+**/logs

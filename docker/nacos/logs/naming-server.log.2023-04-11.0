@@ -1,6 +1,0 @@
-2023-04-11 09:57:03,607 INFO [AUTO-DELETE-IP] service: Service{namespace='dev', group='DEFAULT_GROUP', name='ruoyi-seata-server', ephemeral=true, revision=7}, ip: {"ip":"192.168.65.4","port":8091,"healthy":false,"cluster":"default","extendDatum":{"customInstanceId":"192.168.65.4#8091#default#DEFAULT_GROUP@@ruoyi-seata-server"},"lastHeartBeatTime":1681149533546,"metadataId":"192.168.65.4:8091:default"}
-
-2023-04-11 09:57:03,624 INFO Client remove for service Service{namespace='dev', group='DEFAULT_GROUP', name='ruoyi-seata-server', ephemeral=true, revision=7}, 192.168.65.4:8091#true
-
-2023-04-11 09:57:06,759 INFO Client change for service Service{namespace='dev', group='DEFAULT_GROUP', name='ruoyi-seata-server', ephemeral=true, revision=8}, 192.168.65.4:8091#true
-
