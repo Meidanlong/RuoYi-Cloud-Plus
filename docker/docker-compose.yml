@@ -250,6 +250,7 @@ services:
     privileged: true
     network_mode: "host"
 
+  ################### other ###################
   ruoyi-gen:
     image: ruoyi/ruoyi-gen:1.8.0
     container_name: ruoyi-gen
