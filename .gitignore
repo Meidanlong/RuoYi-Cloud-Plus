@@ -46,3 +46,4 @@ nbdist/
 
 **.run.xml
 **/logs
+**/.DS_Store
