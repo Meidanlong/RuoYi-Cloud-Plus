@@ -15,7 +15,7 @@ port(){
 	firewall-cmd --add-port=9848/tcp --permanent
 	firewall-cmd --add-port=9849/tcp --permanent
 	firewall-cmd --add-port=6379/tcp --permanent
-	firewall-cmd --add-port=3306/tcp --permanent
+	firewall-cmd --add-port=13306/tcp --permanent
 	firewall-cmd --add-port=9100/tcp --permanent
 	firewall-cmd --add-port=9200/tcp --permanent
 	firewall-cmd --add-port=9201/tcp --permanent
